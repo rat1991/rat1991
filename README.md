@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**rat1991/rat1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏻‍💻 TypeScript enthusiast, Node.js user, learned Python, Rust beginner.
+- 😀 Do something to make myself happy
+- 📫 You can reach me via email
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,vue,react,tailwind,nestjs,electron,mysql,redis,prisma,git,gulp,vscode,pnpm,ps,ai,linux,)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me
+
+<p><a href="https://github.com/kuizuo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/kuizuo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> <a href="https://innei.in" target="_blank">
+
+
+![](https://raw.githubusercontent.com/kuizuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kuizuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/kuizuo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kuizuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
